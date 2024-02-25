@@ -1,2 +1,2 @@
 #!/bin/bash
-start index.js
+node index.js
