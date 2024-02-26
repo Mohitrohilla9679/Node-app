@@ -1,12 +1,20 @@
 {
   "name": "proj",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohitrohilla9679/Node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mohitrohilla9679/Node-app/issues"
+  },
+  "homepage": "https://github.com/Mohitrohilla9679/Node-app#readme",
+  "description": ""
 }
